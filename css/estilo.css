@@ -1,0 +1,46 @@
+p{
+
+    width: 40%;
+    /* RELLENO O PADDING */
+     background-color: aquamarine;
+    /*padding-top: 15px;
+    padding-right: 20px;
+    padding-bottom: 30px;
+    padding-left: 50px; */
+
+    /* ACCESO DIRECTO O SHORTCUT */
+    /* Arriba derecha abajo izquierda  - Las manecillas del reloj*/
+    padding: 50px 5px 20px 10px;
+
+    /* BORDER O  BORDE */
+
+    /* ACCESO DIRECTO */
+    border-top: 30px double black;
+    border-right: 2px dashed rgb(194, 27, 27);
+    border-bottom: 2px groove rgb(125, 28, 205);
+    border-left: 2px dashed rgb(10, 223, 56);
+
+    /* ACCESO DIRECTO */
+    border-width: 20px 50PX 2px 50px;
+    border-bottom-style: dotted;
+ 
+ margin: 100px 20px;
+}
+main{
+    width: 90%;
+    background-color: bisque;
+    margin: 0 auto;
+    padding: 1px;
+}
+a{
+    width: 100px;
+    background-color: maroon;
+    color: white;
+    display: block;
+    padding: 12px;
+    margin: 0 auto;
+    text-align: center;
+    border-radius: 10px;
+    text-decoration: none;
+    font-size: 20px;
+}
